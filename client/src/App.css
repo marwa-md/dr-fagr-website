@@ -1,0 +1,252 @@
+
+body {
+    padding: 5px 50px;
+  }
+  
+  .intro {
+  
+  background-color:  #DBEFFA;
+  border-radius: 3rem;
+  padding : 3vw !important;
+  margin : 2vh 0  !important;
+  max-height: 600px;
+  display:flex;
+  overflow: auto;
+  }
+  .intro img {
+    max-height: 100%!important;
+  max-width: 100% !important;
+    margin : 0px !important;
+    border-radius: 90% !important;
+  }
+  
+  .intro h1 {
+    font-size: 3vw;
+    color: #5840bc;
+    font-weight: 600;
+  }
+  
+  .intro p {
+    font-size: 1.5vw;
+    text-align: start;
+    margin-top: 5px;
+  }
+  a {
+     color : #5840bc !important;
+     font-weight: 700 !important;
+     margin-right : 10px !important;
+     text-decoration: none;
+  }
+  
+  button {
+    background-color: #5840bc !important;
+    border: #5840bc !important;
+  
+  }
+  
+  .navbar-btn {
+   
+    width : 200px !important;
+    font-weight: 700 !important;
+    
+  }
+  
+  .services {
+    margin : 2vw;
+    
+  }
+  
+  .services-row {
+    width: 100%;
+    display :flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: flex-start;
+    
+  
+  }
+  
+  .services-row div {
+    
+    margin:10px;
+    width :25rem ;
+    padding: 2rem;
+   
+    display: flex;
+    flex-direction: column;
+   
+  
+  }
+  .shadow-style {
+    background-color:#e6e2f4;
+    border-radius: 0.5rem;
+    box-shadow: 2rem 3rem 5rem #aaa;
+   
+    
+  }
+  .services-row div img {
+  
+    height: 200px;
+    margin: 5px;
+  }
+  .services-row h3 {
+    display: block;
+   font-size: 3vh;
+   margin-bottom: 2rem;
+  }
+  
+  .services-row p {
+    display: block;
+    font-size: 2vh;
+    margin: 3rem;
+  }
+  
+  .hours {
+    background-color: #fde5f9;
+  
+  }
+  
+  
+  .hours img {
+    max-height : 350px !important;
+    margin :0px !important;
+   
+  }
+  
+  
+  
+  .social {
+    background-color: #041434;
+    color : white;
+    text-transform: capitalize;
+    font-style: italic;
+    padding :70px;
+  
+    
+  }
+  .social h1{
+    font-size: 3vw;
+  }
+  .social img {
+    margin-top: 20px;
+    width : 30%;
+  }
+  
+  footer {
+    font-size: 1vw ;
+  }
+  
+  .emerg {
+    
+    margin : 10vh 10px ;
+  
+  }
+  .emerg img {
+    width :60% ;
+    border-radius: 50%  ;
+    
+   
+  }
+  
+  .emerg h1 {
+    font-size: 3.5vw;
+    color: #5840bc;
+    font-weight: 600;
+  }
+  
+  .emerg p {
+    font-size: 1.5vw;
+    text-align: start;
+    margin-top: 5px;
+  }
+  
+  .about {
+    max-height : 530px;
+    padding: 30px;
+    margin : 10px 10px ;
+    border-style: solid;
+    border-color: antiquewhite;
+  
+  }
+  
+  .about h1{
+  
+    font-size: 3.5vw;
+    color: #5840bc;
+    font-weight: 700;
+    
+  }
+  .about p {
+    font-size: 1vw;
+    margin-top: 3vh;
+  }
+  .rectangle {
+  
+    position: relative;
+  width: 20vw;
+  height: 30vw;
+  margin-left: 70%;
+  
+  background: #FADBE2;
+  border-radius: 2vw;
+  }
+  
+  .doctor-pic {
+    
+  position: absolute;
+  width: 20vw;
+  height: 20vw;
+  margin-left: -40%;
+  margin-top: 25%;
+  
+  background-image: url(./img/IMG_E7485.JPG);
+  background-size: cover;
+  border-radius: 2vw;
+  }
+  
+  .intro ul {
+    list-style-type: none;
+    font-size: 1vw;
+    font-weight: 700;
+    color: #5840bc;
+    margin-left: 5px;
+  }
+  
+  .contact {
+    background-color: #DBEFFA;
+    border-radius: 3rem;
+    padding : 5vw;
+  }
+  
+  .contact h1 {
+    color: #5840bc;
+    font-weight: 700;
+  }
+  .hours h1 {
+    font-size: 3.5vw;
+    color: #5840bc;
+    font-weight: 600;
+  }
+  
+  .hours p {
+    font-size: 1.5vw;
+    text-align: start;
+    margin-top: 5px;
+  }
+  
+  .service {
+    background-color: #DBEFFA;
+    padding :20px;
+    
+  
+  }
+  .meet {
+    background-color: #fde5f9;
+    padding :20px;
+  }
+  
+  table{
+    font-size: 2vw;
+  }
+  
+  
